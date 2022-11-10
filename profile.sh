@@ -7,7 +7,7 @@ alias l='ls -CF'
 alias ll='ls -alF'
 alias la='ls -A'
 alias lt='ls -alFt'
-alias ..='cd..'
+alias ..='cd ..'
 alias o.='open .'
 
 
