@@ -33,7 +33,15 @@ git_push_branch() {
 alias gbpush='git_push_branch'
 
 
+# Common Docker command shortcuts
+
+alias dcp='docker-compose pull'
+alias dcs='docker-compose stop'
+alias dcup='docker-compose up -d'
+
+
 # Other common command shortcuts
 
 alias ipme='curl ifconfig.me'
 alias cls='clear'
+alias cpy="rsync -ah --progress"
